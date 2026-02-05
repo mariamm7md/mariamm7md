@@ -12,7 +12,7 @@
 - 🎯 Built **9+ real-world data analysis projects** including dashboards for sales, healthcare, and education
 - 🌱 Continuously improving my skills in **Data Visualization, Business Intelligence & KPI Reporting**
 - 📫 Reach me at: [Mariameltras@gmail.com](mailto:Mariameltras@gmail.com)
-- 🌐 My portfolio: [mariammohamed7.netlify.app/]
+- 🌐 My portfolio: [[mariammohamed7.netlify.app/](https://mariammohamed7.netlify.app/)]
 - 🔗 LinkedIn: [linkedin.com/in/mariam-mohamed7](https://www.linkedin.com/in/mariam-mohamed7/)
 - 📍 Based in **Cairo, Egypt**
 
