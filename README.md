@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Mohamed Eltras</h1>
-<h3 align="center">Data Analyst | Turning Data into Actionable Insights</h3>
+<h3 align="center">Entry-Level Data Analyst | Data Entry Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariamm7md&label=Profile%20views&color=E8B86D&style=flat" alt="profile views" />
@@ -16,23 +16,18 @@
 - 🌱 Focused on **Data Visualization, BI Reporting & KPI Reporting**
 - 📍 Based in **Cairo, Egypt**
 
+
 📫 **Email:** [Mariameltras@gmail.com](mailto:Mariameltras@gmail.com)  
 🌐 **Portfolio:** [mariammohamed7.netlify.app](https://mariammohamed7.netlify.app/)  
 🔗 **LinkedIn:** [linkedin.com/in/mariam-mohamed7](https://www.linkedin.com/in/mariam-mohamed7/)
 
 ---
 
-## 💼 Tools & Technologies
-
-### 📊 Data Analysis & Visualization
+## 🛠️ Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-### 🗄️ Data & Querying
-<p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 </p>
 
