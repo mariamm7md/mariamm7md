@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=mariamm7md&label=Profile%20views&color=E8B86D&style=flat" alt="profile views" />
 </p>
 
+📍 Cairo, Egypt  
+📧 [Mariameltras@gmail.com](mailto:Mariameltras@gmail.com)  
+🌐 [Portfolio](https://mariammohamed7.netlify.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mariam-mohamed7/) | 🔗 [GitHub](https://github.com/mariamm7md)
+
 ---
 
 ## 🚀 About Me
@@ -14,13 +19,7 @@
 - 🏛️ Completed Data Analysis training at **NTI** and **ITI**
 - 📈 Built **9+ real-world data analysis projects** (Sales, Healthcare, Education)
 - 🌱 Focused on **Data Visualization, BI Reporting & KPI Reporting**
-- 📍 Based in **Cairo, Egypt**
-
-
-📫 **Email:** [Mariameltras@gmail.com](mailto:Mariameltras@gmail.com)  
-🌐 **Portfolio:** [mariammohamed7.netlify.app](https://mariammohamed7.netlify.app/)  
-🔗 **LinkedIn:** [linkedin.com/in/mariam-mohamed7](https://www.linkedin.com/in/mariam-mohamed7/)
-
+  
 ---
 
 ## 🛠️ Tools & Technologies
