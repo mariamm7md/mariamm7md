@@ -8,7 +8,7 @@
 📍 Cairo, Egypt  
 📧 [Mariameltras@gmail.com](mailto:Mariameltras@gmail.com)  
 🌐 [Portfolio](https://mariammohamed7.netlify.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mariam-mohamed7/) | 🔗 [GitHub](https://github.com/mariamm7md)
+🔗 [LinkedIn](https://www.linkedin.com/in/mariam-mohamed7/)
 
 ---
 
